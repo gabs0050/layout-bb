@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 a {
@@ -22,6 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     padding-inline: 80px;
+    color: black;
 }
 
 header {
@@ -32,9 +34,9 @@ header {
 }
 
 .logo{
-    height: 80px;
-    width: 80px;
-    background-color: lightgray;
+    height: 40%;
+    width: 18.5%;
+    background-image: url(./fifa-img.png);
 }
 
 .menu ul{
@@ -84,8 +86,9 @@ main {
 
 
 .destaque{
-    width: 50%;
-    background-color: aquamarine;
+    width: 67%;
+    height: 80.9%;
+    background-image: url(./fifa1.avif);
 }
 footer{
     height: 100px;

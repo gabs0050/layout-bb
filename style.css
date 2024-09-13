@@ -1,0 +1,18 @@
+/*RESET */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* UL - LISTA ORDENADA. OL- ORDENADA. LI - ELEMENTO DA LISTA. */
+ul, ol, li{
+    list-style: none;
+}
+/*FIM DO RESET*/

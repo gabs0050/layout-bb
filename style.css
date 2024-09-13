@@ -44,9 +44,18 @@ header {
 }
 main {
     flex-grow: 1;
-    background-color: plum;
+    display: flex;
 }
 
+.conteudo{
+    width: 50%;
+    background-color: tomato;
+}
+
+.destaque{
+    width: 50%;
+    background-color: lightgray;
+}
 footer{
     height: 100px;
     background-color: lightgreen;

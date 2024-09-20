@@ -19,4 +19,4 @@ Site feito para divulgação do produto, e para colocar em prática os conhecime
 ---
 
 ## Autor
--[Gabriel Souza Costa](https://github.com/gabs0050)
+- [Gabriel Souza Costa](https://github.com/gabs0050)

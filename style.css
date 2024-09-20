@@ -4,7 +4,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color: white;
+    color: #00f567;
+    background-color: black;
 }
 
 a {
@@ -23,7 +24,6 @@ body {
     display: flex;
     flex-direction: column;
     padding-inline: 80px;
-    color: black;
 }
 
 header {
@@ -35,7 +35,7 @@ header {
 
 .logo{
     height: 40%;
-    width: 18.5%;
+    width: 18.3%;
     background-image: url(./fifa-img.png);
 }
 
@@ -66,8 +66,8 @@ main {
 .conteudo button{
     height: 80px;
     width: 300px;
-    background-color: black;
-    color: aliceblue;
+    background-color: #00f567;
+    color: white;
     font-size: 32px;
 }
 
@@ -96,4 +96,22 @@ footer{
     justify-content: center;
     align-items: center;
     color: lightgray;
+}
+
+.instagram{
+    background-image: url(./logo-instagram.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.x{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./x.avif)
+}
+
+.youtube{
+    background-image: url(./youtube.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
